@@ -30,4 +30,8 @@ Selama tahap eksplorasi menggunakan SQL, saya merumuskan berbagai business quest
     4. Interactive Dashboard: Membangun visualisasi dinamis yang mencakup tren waktu (Dual-axis), segmentasi pasar, dan peringkat performa game.
 
 ## 💡 Key Insights
+Berdasarkan analisis keseluruhan terhadap ~120.000 data game, berikut adalah temuan utama dari pasar Steam:
 
+1. Dominasi Genre Action: Action memimpin sebagai genre paling masif dan mendominasi pasar Steam, baik dari segi volume rilis game maupun kontribusi pendapatan kotor.
+2. Pricing "Sweet Spot": Mayoritas ekosistem Steam didominasi oleh game pada kelompok harga "Murah" (rentang $0.1 - $10). Hal ini menunjukkan tingginya daya tarik dan kompetisi di segmen budget-friendly.
+3. The Ultimate Top Performer: Black Myth: Wukong (rilis 2024) memuncaki leaderboard secara absolut dengan rekor Estimated Gross Revenue tertinggi, meraup estimasi pendapatan fantastis hingga ~$7.4 Miliar
