@@ -16,7 +16,7 @@ https://www.kaggle.com/datasets/fronkongames/steam-games-dataset/data
     3. Missing & Blank Value Management: Menangani data yang kosong pada kolom penting (seperti harga atau owner) agar tidak merusak perhitungan rata-rata. Dan mengisi blank value / null value di kolom seperti publishers, tags, dan genres dengan 'unknonw'.
     4. Feature Selection (Remove Irrelevant Columns): Menghapus kolom yang tidak memberikan nilai analisis untuk mengoptimalkan performa query dan ukuran file Power BI.
 
-Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 Selama tahap eksplorasi menggunakan SQL, saya merumuskan berbagai business questions untuk membedah perilaku pasar Steam. Meskipun dashboard akhir difokuskan pada tren waktu dan segmentasi pangsa pasar, investigasi menyeluruh telah dilakukan melalui tahapan berikut:
     1. Market Growth & Publisher Dominance: Menganalisis tren rilis game tahunan serta mengidentifikasi Top 10 Publishers dengan basis pemain terbesar dan pendapatan tertinggi.
     2. Player Engagement Anomaly: Menganalisis rasio retensi pemain dengan melacak game yang memiliki tingkat kepemilikan sangat tinggi (1 - 50 Juta owners) namun memiliki Peak CCU (Pemain Aktif Bersamaan) yang sangat rendah.
