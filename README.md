@@ -11,7 +11,11 @@ https://www.kaggle.com/datasets/fronkongames/steam-games-dataset/data
 
 ## 🛠️ Tools & Tahapan
 - SQL: Digunakan untuk membersihkan data dan melakukan Exploratory Data Analysis (EDA).
-- Power BI: Digunakan untuk membangun dashboard interaktif, memvisualisasikan tren waktu (Dual-axis), dan segmentasi pasar (Top Genres & Price Group).
+- Power BI & Power Query (Data Transformation & Visualization)
+    1. Advanced Data Cleaning: Melakukan tahap pembersihan data kedua (double cleaning) pada Power Query untuk memastikan konsistensi data sebelum proses visualisasi.
+    2. Data Filtering & Selection: Menyaring kategori dan genre game yang paling relevan bagi pasar (misalnya: Single-player, Action, Indie, Multiplayer) guna     menghindari bias pada analisis
+    3. Data Engineering (Custom Columns & DAX): Melakukan rekayasa data dengan membuat kolom kalkulasi baru, seperti Median Owners (hasil rata-rata dari Owner Upper dan Lower) untuk mendapatkan estimasi Gross Revenue yang lebih akurat dan objektif.
+    4. Interactive Dashboard: Membangun visualisasi dinamis yang mencakup tren waktu (Dual-axis), segmentasi pasar, dan peringkat performa game.
 
 ## 💡 Key Insights
 
